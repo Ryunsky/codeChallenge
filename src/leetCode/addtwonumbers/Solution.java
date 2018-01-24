@@ -1,4 +1,4 @@
-package LeeCode.addtwonumbers;
+package leetCode.addtwonumbers;
 
 /**
  * 
